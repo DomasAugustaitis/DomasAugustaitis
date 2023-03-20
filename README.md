@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DomasAugustaitis
-- 👀 I’m interested in full-stack development and project leading.
-- 🌱 I’m currently learning React.js and ReactNative.js.
-- 💞️ I’m looking to collaborate on new and interesting projects, especially within the Extended Reality area.
+- 👀 I’m interested in back-end development and data science.
+- 🌱 I’m currently learning Kubernetes and AI.
+- 💞️ I’m looking to collaborate on new and interesting projects, especially within the AI and Innovation area.
 - 📫 How to reach me: via LinkedIn
 
 <!---
